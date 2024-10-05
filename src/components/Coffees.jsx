@@ -19,15 +19,3 @@ Coffees.defaultProps = {
 
 export default Coffees
 
-// const Coffees = () => {
-//   return (
-//     <div>
-//       <h1>Coffees</h1>
-//       <ul>
-//         <li>Espresso</li>
-//         <li>Cappuccino</li>
-//         <li>Latte</li>
-//       </ul>
-//     </div>
-//   )
-// }
